@@ -9,6 +9,13 @@ import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * 导入okHttp依赖
+ *  <!--okHttp连接-->
+ *         <dependency>
+ *             <groupId>com.squareup.okhttp3</groupId>
+ *             <artifactId>okhttp</artifactId>
+ *             <version>4.6.0</version>
+ *         </dependency>
  * @author sric
  */
 public class OkHttp {
