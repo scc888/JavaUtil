@@ -1,4 +1,4 @@
-package cn.sric;
+package cn.sric.util;
 
 import org.springframework.util.StringUtils;
 import sun.misc.BASE64Decoder;
