@@ -1,4 +1,4 @@
-package cn.sric;
+package cn.sric.util;
 
 import org.springframework.data.redis.connection.RedisConnection;
 import org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory;
