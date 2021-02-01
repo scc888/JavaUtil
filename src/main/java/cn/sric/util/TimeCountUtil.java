@@ -21,14 +21,6 @@ public class TimeCountUtil {
     private static final String ONE_MONTH_AGO = "月前";
     private static final String ONE_YEAR_AGO = "年前";
 
-//	// main方法测试
-//       public static void main(String[] args) throws ParseException {  
-//           SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss"); 
-//          
-//           Date date = format.parse("2019-06-23 10:25:06");  
-//           System.out.println(format(date));  
-//       }
-
     // 实际调用方法
     public static String timeCount(Date dateTime) {
         return format(dateTime);
